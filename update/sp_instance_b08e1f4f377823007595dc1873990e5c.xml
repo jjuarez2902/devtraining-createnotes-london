@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">455751cb377023007595dc1873990ecf</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-02 01:17:11</sys_created_on>
+        <sys_id>b08e1f4f377823007595dc1873990e5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>owo</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_instance_b08e1f4f377823007595dc1873990e5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-02 01:17:11</sys_updated_on>
+        <title>owo</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h1 style=\"text-align: center;\"><strong>Oopsie Woopsie!&nbsp;</strong></h1>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h2 style=\"text-align: center;\"><strong>Seems like you encountered our 404 page! Sowwee...</strong></h2>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p><img style=\"max-width: 100%; max-height: 480px; display: block; margin-left: auto; margin-right: auto;\" src=\"93e759cb377023007595dc1873990ea1.iix\" /></p>",
+		"displayValue": "<h1 style=\"text-align: center;\"><strong>Oopsie Woopsie!&nbsp;</strong></h1>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h2 style=\"text-align: center;\"><strong>Seems like you encountered our 404 page! Sowwee...</strong></h2>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p><img style=\"max-width: 100%; max-height: 480px; display: block; margin-left: auto; margin-right: auto;\" src=\"93e759cb377023007595dc1873990ea1.iix\" /></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b08e1f4f377823007595dc1873990e5c"/>
+</record_update>
